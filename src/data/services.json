@@ -1,0 +1,38 @@
+[
+  {
+    "id": "campus-app",
+    "name": "校園通 APP",
+    "zoneId": "service",
+    "introduction": null,
+    "images": [],
+    "officialUrl": null,
+    "interaction": null,
+    "sessions": [],
+    "source": "第一次籌備會議紀錄（使用者提供之初始化輪值）",
+    "verificationStatus": "pending-content"
+  },
+  {
+    "id": "education-data",
+    "name": "教育大數據平臺",
+    "zoneId": "service",
+    "introduction": null,
+    "images": [],
+    "officialUrl": null,
+    "interaction": null,
+    "sessions": [],
+    "source": "第一次籌備會議紀錄（使用者提供之初始化輪值）",
+    "verificationStatus": "pending-content"
+  },
+  {
+    "id": "star-alliance",
+    "name": "新北星聯盟",
+    "zoneId": "service",
+    "introduction": null,
+    "images": [],
+    "officialUrl": null,
+    "interaction": null,
+    "sessions": [],
+    "source": "第一次籌備會議紀錄（使用者提供之初始化輪值）",
+    "verificationStatus": "pending-content"
+  }
+]

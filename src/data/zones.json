@@ -1,0 +1,46 @@
+[
+  {
+    "id": "future",
+    "name": "未來學習室",
+    "subtitle": "讓想像，成為學習的日常",
+    "theme": "AI 教學・數位學習",
+    "element": "水",
+    "color": "#64b7cf",
+    "lightColor": "#e2f3f7",
+    "boothUnits": 6,
+    "description": "走進智慧學習的未來，探索 AI 教學與數位學習如何連結課堂、學生與無限可能。"
+  },
+  {
+    "id": "maker",
+    "name": "科技創客坊",
+    "subtitle": "動手，把好奇變成可能",
+    "theme": "STEAM 探究・手作實踐",
+    "element": "火",
+    "color": "#df9474",
+    "lightColor": "#fff0e7",
+    "boothUnits": 6,
+    "description": "從一個問題、一張草圖開始，在探究與手作之間，發現科技、藝術與創作的交集。"
+  },
+  {
+    "id": "research",
+    "name": "跨域研究所",
+    "subtitle": "每個好問題，都是新起點",
+    "theme": "PBL 跨域探究・問題解決",
+    "element": "風",
+    "color": "#a89bcb",
+    "lightColor": "#efebf7",
+    "boothUnits": 2,
+    "description": "以真實問題為起點，串連不同領域的知識，認識學校與教育團隊的跨域探究。"
+  },
+  {
+    "id": "service",
+    "name": "新北服務站",
+    "subtitle": "讓教育服務，更靠近你",
+    "theme": "智慧校務・教育服務",
+    "element": "地",
+    "color": "#91ad72",
+    "lightColor": "#edf3e5",
+    "boothUnits": 2,
+    "description": "認識新北教育的數位服務，從校園通 APP、教育大數據平臺，到新北星聯盟。"
+  }
+]

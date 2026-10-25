@@ -1,0 +1,102 @@
+{
+  "status": "schematic-not-final",
+  "description": "16 個實體面積單位；非同時參展學校數。實際位置及學校對應待核定。",
+  "units": [
+    {
+      "id": "future-01",
+      "zoneId": "future",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "future-02",
+      "zoneId": "future",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "future-03",
+      "zoneId": "future",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "future-04",
+      "zoneId": "future",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "future-05",
+      "zoneId": "future",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "future-06",
+      "zoneId": "future",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "maker-01",
+      "zoneId": "maker",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "maker-02",
+      "zoneId": "maker",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "maker-03",
+      "zoneId": "maker",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "maker-04",
+      "zoneId": "maker",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "maker-05",
+      "zoneId": "maker",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "maker-06",
+      "zoneId": "maker",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "research-01",
+      "zoneId": "research",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "research-02",
+      "zoneId": "research",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "service-01",
+      "zoneId": "service",
+      "position": null,
+      "confirmed": false
+    },
+    {
+      "id": "service-02",
+      "zoneId": "service",
+      "position": null,
+      "confirmed": false
+    }
+  ]
+}

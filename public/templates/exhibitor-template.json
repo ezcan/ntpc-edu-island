@@ -1,0 +1,19 @@
+{
+  "id": "sanmin",
+  "type": "school",
+  "name": "三民高中",
+  "zoneId": "future",
+  "logo": null,
+  "introduction": null,
+  "exhibitTitle": null,
+  "exhibitDescription": null,
+  "learningHighlights": [],
+  "interaction": null,
+  "audience": null,
+  "stampRule": null,
+  "images": [],
+  "videos": [],
+  "officialUrl": null,
+  "source": "第一次籌備會議紀錄（使用者提供之初始化輪值）",
+  "verificationStatus": "pending-content"
+}

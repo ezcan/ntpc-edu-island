@@ -1,0 +1,25 @@
+﻿date,period,zoneId,exhibitorIds,boothIds,status
+2026-11-12,morning,future,"[""sanmin"", ""zhonggang""]",null,pending-final-approval
+2026-11-12,morning,maker,"[""jiangcui""]",null,pending-final-approval
+2026-11-12,morning,research,"[""dingxi""]",null,pending-final-approval
+2026-11-12,afternoon,future,"[""beida"", ""baiyun""]",null,pending-final-approval
+2026-11-12,afternoon,maker,"[""yingge""]",null,pending-final-approval
+2026-11-12,afternoon,research,"[""ganyuan""]",null,pending-final-approval
+2026-11-13,morning,future,"[""ntpc-high"", ""chongyang""]",null,pending-final-approval
+2026-11-13,morning,maker,"[""yonghe""]",null,pending-final-approval
+2026-11-13,morning,research,"[""deyin""]",null,pending-final-approval
+2026-11-13,afternoon,future,"[""chongqing"", ""micang""]",null,pending-final-approval
+2026-11-13,afternoon,maker,"[""daguan""]",null,pending-final-approval
+2026-11-13,afternoon,research,"[""shimen""]",null,pending-final-approval
+2026-11-14,morning,future,"[""xintai"", ""beixin""]",null,pending-final-approval
+2026-11-14,morning,maker,"[""jinhe""]",null,pending-final-approval
+2026-11-14,morning,research,"[""xindian"", ""smart-learning-team""]",null,pending-final-approval
+2026-11-14,afternoon,future,"[""zhongxiao"", ""jieshou""]",null,pending-final-approval
+2026-11-14,afternoon,maker,"[""jinshan""]",null,pending-final-approval
+2026-11-14,afternoon,research,"[""smart-learning-team""]",null,pending-final-approval
+2026-11-15,morning,future,"[""nanshan"", ""bihua""]",null,pending-final-approval
+2026-11-15,morning,maker,"[""zhongzheng""]",null,pending-final-approval
+2026-11-15,morning,research,"[""doc-north-team""]",null,pending-final-approval
+2026-11-15,afternoon,future,"[""chonglin"", ""ruifang""]",null,pending-final-approval
+2026-11-15,afternoon,maker,"[""renai""]",null,pending-final-approval
+2026-11-15,afternoon,research,"[""doc-north-team""]",null,pending-final-approval

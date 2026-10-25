@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "title": "第一次籌備會議紀錄（使用者提供之初始化輪值）",
+    "version": "2026-10-25-initial",
+    "verificationStatus": "pending-final-approval",
+    "note": "舊版簡報可能有差異，所有輪值及示意配置均待最終核定。"
+  },
+  "periods": {
+    "morning": {
+      "label": "上午",
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "afternoon": {
+      "label": "下午",
+      "start": "14:00",
+      "end": "18:00"
+    }
+  },
+  "sessions": [
+    {
+      "date": "2026-11-12",
+      "period": "morning",
+      "zoneId": "future",
+      "exhibitorIds": [
+        "sanmin",
+        "zhonggang"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-12",
+      "period": "morning",
+      "zoneId": "maker",
+      "exhibitorIds": [
+        "jiangcui"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-12",
+      "period": "morning",
+      "zoneId": "research",
+      "exhibitorIds": [
+        "dingxi"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-12",
+      "period": "afternoon",
+      "zoneId": "future",
+      "exhibitorIds": [
+        "beida",
+        "baiyun"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-12",
+      "period": "afternoon",
+      "zoneId": "maker",
+      "exhibitorIds": [
+        "yingge"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-12",
+      "period": "afternoon",
+      "zoneId": "research",
+      "exhibitorIds": [
+        "ganyuan"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-13",
+      "period": "morning",
+      "zoneId": "future",
+      "exhibitorIds": [
+        "ntpc-high",
+        "chongyang"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-13",
+      "period": "morning",
+      "zoneId": "maker",
+      "exhibitorIds": [
+        "yonghe"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-13",
+      "period": "morning",
+      "zoneId": "research",
+      "exhibitorIds": [
+        "deyin"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-13",
+      "period": "afternoon",
+      "zoneId": "future",
+      "exhibitorIds": [
+        "chongqing",
+        "micang"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-13",
+      "period": "afternoon",
+      "zoneId": "maker",
+      "exhibitorIds": [
+        "daguan"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-13",
+      "period": "afternoon",
+      "zoneId": "research",
+      "exhibitorIds": [
+        "shimen"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-14",
+      "period": "morning",
+      "zoneId": "future",
+      "exhibitorIds": [
+        "xintai",
+        "beixin"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-14",
+      "period": "morning",
+      "zoneId": "maker",
+      "exhibitorIds": [
+        "jinhe"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-14",
+      "period": "morning",
+      "zoneId": "research",
+      "exhibitorIds": [
+        "xindian",
+        "smart-learning-team"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-14",
+      "period": "afternoon",
+      "zoneId": "future",
+      "exhibitorIds": [
+        "zhongxiao",
+        "jieshou"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-14",
+      "period": "afternoon",
+      "zoneId": "maker",
+      "exhibitorIds": [
+        "jinshan"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-14",
+      "period": "afternoon",
+      "zoneId": "research",
+      "exhibitorIds": [
+        "smart-learning-team"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-15",
+      "period": "morning",
+      "zoneId": "future",
+      "exhibitorIds": [
+        "nanshan",
+        "bihua"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-15",
+      "period": "morning",
+      "zoneId": "maker",
+      "exhibitorIds": [
+        "zhongzheng"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-15",
+      "period": "morning",
+      "zoneId": "research",
+      "exhibitorIds": [
+        "doc-north-team"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-15",
+      "period": "afternoon",
+      "zoneId": "future",
+      "exhibitorIds": [
+        "chonglin",
+        "ruifang"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-15",
+      "period": "afternoon",
+      "zoneId": "maker",
+      "exhibitorIds": [
+        "renai"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    },
+    {
+      "date": "2026-11-15",
+      "period": "afternoon",
+      "zoneId": "research",
+      "exhibitorIds": [
+        "doc-north-team"
+      ],
+      "boothIds": null,
+      "status": "pending-final-approval"
+    }
+  ]
+}

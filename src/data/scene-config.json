@@ -1,0 +1,300 @@
+{
+  "status": "schematic-not-final",
+  "footprintMeters": [
+    12,
+    12
+  ],
+  "openSides": [
+    "south",
+    "west"
+  ],
+  "wallSides": [
+    "north",
+    "east"
+  ],
+  "island": {
+    "radius": 9.5,
+    "depth": 2.5,
+    "grassColor": "#b7cd9c",
+    "earthColor": "#e0c49f"
+  },
+  "zones": {
+    "future": {
+      "position": [
+        -3.8,
+        0,
+        -2.9
+      ],
+      "rotation": 0.08
+    },
+    "maker": {
+      "position": [
+        3.5,
+        0,
+        -2.8
+      ],
+      "rotation": -0.12
+    },
+    "research": {
+      "position": [
+        -3.8,
+        0,
+        3.1
+      ],
+      "rotation": 0.1
+    },
+    "service": {
+      "position": [
+        3.6,
+        0,
+        3.1
+      ],
+      "rotation": -0.08
+    }
+  },
+  "equipment": [
+    {
+      "id": "screen-1",
+      "type": "screen",
+      "mount": "wall",
+      "position": [
+        -4,
+        0,
+        -7.4
+      ]
+    },
+    {
+      "id": "screen-2",
+      "type": "screen",
+      "mount": "wall",
+      "position": [
+        0,
+        0,
+        -7.6
+      ]
+    },
+    {
+      "id": "screen-3",
+      "type": "screen",
+      "mount": "wall",
+      "position": [
+        7.7,
+        0,
+        -4
+      ]
+    },
+    {
+      "id": "screen-4",
+      "type": "screen",
+      "mount": "wall",
+      "position": [
+        7.9,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "screen-5",
+      "type": "screen",
+      "mount": "mobile",
+      "position": [
+        -6.6,
+        0,
+        -1.8
+      ]
+    },
+    {
+      "id": "screen-6",
+      "type": "screen",
+      "mount": "mobile",
+      "position": [
+        6.1,
+        0,
+        2.7
+      ]
+    },
+    {
+      "id": "photo-booth",
+      "type": "photo-booth",
+      "position": [
+        6.4,
+        0,
+        4.7
+      ],
+      "referenceSizeMeters": [
+        0.8,
+        2.5,
+        2
+      ]
+    },
+    {
+      "id": "service-desk",
+      "type": "desk",
+      "position": [
+        2.7,
+        0,
+        5
+      ]
+    },
+    {
+      "id": "stamp",
+      "type": "stamp",
+      "position": [
+        1.6,
+        0,
+        5.8
+      ]
+    }
+  ],
+  "mascotSlots": [
+    {
+      "element": "水",
+      "zoneId": "future",
+      "modelUrl": null,
+      "status": "placeholder",
+      "position": [
+        1.9,
+        0,
+        1.3
+      ]
+    },
+    {
+      "element": "火",
+      "zoneId": "maker",
+      "modelUrl": null,
+      "status": "placeholder",
+      "position": [
+        1.9,
+        0,
+        1.3
+      ]
+    },
+    {
+      "element": "風",
+      "zoneId": "research",
+      "modelUrl": null,
+      "status": "placeholder",
+      "position": [
+        1.9,
+        0,
+        1.3
+      ]
+    },
+    {
+      "element": "地",
+      "zoneId": "service",
+      "modelUrl": null,
+      "status": "placeholder",
+      "position": [
+        1.9,
+        0,
+        1.3
+      ]
+    }
+  ],
+  "models": [
+    {
+      "file": "building-a.glb",
+      "position": [
+        -6,
+        0,
+        -4.8
+      ],
+      "height": 1.4,
+      "rotation": 0
+    },
+    {
+      "file": "building-c.glb",
+      "position": [
+        5.5,
+        0,
+        -4.8
+      ],
+      "height": 1.6,
+      "rotation": 0
+    },
+    {
+      "file": "bench.glb",
+      "position": [
+        -2,
+        0,
+        5.8
+      ],
+      "height": 0.4,
+      "rotation": 0
+    },
+    {
+      "file": "desk.glb",
+      "position": [
+        3.9,
+        0,
+        -1.2
+      ],
+      "height": 0.55,
+      "rotation": 0
+    },
+    {
+      "file": "chair.glb",
+      "position": [
+        4.2,
+        0,
+        -0.65
+      ],
+      "height": 0.65,
+      "rotation": 3.14
+    },
+    {
+      "file": "computerscreen.glb",
+      "position": [
+        -3.9,
+        0.6,
+        -1.25
+      ],
+      "height": 0.4,
+      "rotation": 0
+    },
+    {
+      "file": "flower-purplea.glb",
+      "position": [
+        -6,
+        0,
+        4.7
+      ],
+      "height": 0.6,
+      "rotation": 0
+    },
+    {
+      "file": "character-female-a.glb",
+      "position": [
+        -1.5,
+        0,
+        2
+      ],
+      "height": 0.85,
+      "rotation": 0,
+      "animated": true
+    },
+    {
+      "file": "character-male-a.glb",
+      "position": [
+        2,
+        0,
+        -1
+      ],
+      "height": 0.85,
+      "rotation": 1.2,
+      "animated": true
+    },
+    {
+      "file": "character-female-c.glb",
+      "position": [
+        5,
+        0,
+        1
+      ],
+      "height": 0.8,
+      "rotation": -1,
+      "animated": true
+    }
+  ]
+}

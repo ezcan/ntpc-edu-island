@@ -1,0 +1,82 @@
+[
+  {
+    "path": "models/kenney/building-a.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/city-kit-commercial/building-a.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 119976,
+    "sha256": "63345c203050c6f75a6c2897fa409c67db09fe333b2b855021b6b9c15090570c"
+  },
+  {
+    "path": "models/kenney/building-c.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/city-kit-commercial/building-c.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 113828,
+    "sha256": "834acf7c9a5fa99899d66645e35aa79a1bfca8930c6ed50fb135cf272bc2289f"
+  },
+  {
+    "path": "models/kenney/desk.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/furniture-kit/desk.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 15048,
+    "sha256": "0164fe828f028b321730fb8c74502e353583f751be74da1682d42fff7d3c5a42"
+  },
+  {
+    "path": "models/kenney/chair.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/furniture-kit/chair.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 10756,
+    "sha256": "c8a11eec93e89e31250ba91afc1b8d56c3bec7ae86640fd1239f595ff4180883"
+  },
+  {
+    "path": "models/kenney/computerscreen.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/furniture-kit/computerscreen.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 6404,
+    "sha256": "5942cbad29a2d2b956619569926e81d50a4174403d592fece6556e57632dc643"
+  },
+  {
+    "path": "models/kenney/bench.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/furniture-kit/bench.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 10756,
+    "sha256": "ba05a6d23a5a5a44da016757632070e47ff7587ce10e2f6d6d52328b4cf5489b"
+  },
+  {
+    "path": "models/kenney/character-female-a.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/mini-characters/character-female-a.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 279936,
+    "sha256": "7a7f1015ebbb22d515babf6ce36fc41f5b0ce91c4886d5d963764585f709faa6"
+  },
+  {
+    "path": "models/kenney/character-male-a.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/mini-characters/character-male-a.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 253400,
+    "sha256": "b9e4a5e2c7761f08c759ca9e013a2f57b986ac4e46961569f634d80084c3e5d7"
+  },
+  {
+    "path": "models/kenney/character-female-c.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/mini-characters/character-female-c.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 258532,
+    "sha256": "c5d377275e2227dd4c883062c6ddbc7de1349a2cd866c9c189746eb9aedec920"
+  },
+  {
+    "path": "models/kenney/flower-purplea.glb",
+    "source": "https://github.com/Hidencod/tge-assets/blob/7be9b573bc74f32ed766b44b3f46550d02ca83b5/packs/nature-kit/flower-purplea.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "bytes": 7112,
+    "sha256": "f6fc34c96a03420a74fe36d4c2d0ec88f15204fcad99cd1416c3c4ecb22e48c4"
+  }
+]
